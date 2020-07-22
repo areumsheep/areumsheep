@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reum1032@gmail.com)](mailto:reum1032@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009403314641)](https://www.facebook.com/profile.php?id=100009403314641)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAreum1%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAreum1%2Fhit-counter)](https://hits.seeyoufarm.com)   
 [![Areum1's github stats](https://github-readme-stats.vercel.app/api?username=Areum1)](https://github.com/Areum1/github-readme-stats)
 <!--
 **Areum1/Areum1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
