@@ -1,5 +1,5 @@
-### Frontend Engineer
-Hi there👋 I'm Yang Areum    
+### Yang Areum😎
+안녕하세요~ 풀스택 개발자를 꿈꾸는 양아름입니다!    
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAreum1%2Fhit-counter)](https://hits.seeyoufarm.com)     
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reum1032@gmail.com)](mailto:reum1032@gmail.com)
