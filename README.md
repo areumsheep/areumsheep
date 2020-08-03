@@ -6,6 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009403314641)](https://www.facebook.com/profile.php?id=100009403314641)
    
 [![areumsheep's github stats](https://github-readme-stats.vercel.app/api?username=areumsheep)](https://github.com/areumsheep/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areumsheep&layout=compact)](https://github.com/areumsheep/areumsheep)  
 <!--
 **Areum1/Areum1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
