@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=270&section=header&text=Hello%20I%20am%20Yang%20Areum👋&fontSize=40)](https://github.com/areumsheep)<br>
+[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20I%20am%20Yang%20Areum👋&fontSize=40)](https://github.com/areumsheep)<br>
 
 Hi, I'm Areum Yang. 
 
