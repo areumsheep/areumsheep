@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hello👋&fontSize=60)<br>
-
 Hi, I'm Areum Yang. 
 
 - :mortar_board: Mirim girls' high school student
