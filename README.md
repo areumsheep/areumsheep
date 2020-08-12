@@ -1,4 +1,4 @@
-   [![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20I%20am%20Yang%20Areum👋&fontSize=50)](https://github.com/areumsheep)<br>
+   [![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=270&section=header&text=Hello%20I%20am%20Yang%20Areum👋&fontSize=40)](https://github.com/areumsheep)<br>
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fareumsheep%2Fhit-counter)](https://hits.seeyoufarm.com)     
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reum1032@gmail.com)](mailto:reum1032@gmail.com)
