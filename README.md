@@ -4,7 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fareumsheep)](https://hits.seeyoufarm.com)
 <!-- [![Velog Badge](https://img.shields.io/badge/velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white&link=https://velog.io/@areumsheep)](https://velog.io/@areumsheep) -->
 
-- 💻 Mirim girls' high school student
 - 🌱 learning Web full stack
 - 🤔 looking for open source to contribute
 - 📝 I mainly use Javascript and Java, and I am interested in new technology.
